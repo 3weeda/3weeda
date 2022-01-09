@@ -9,18 +9,19 @@ Goals for 2022:
 - Launch a monthly email newsletter campaign
 - Solve harder Leetcode challenges
 
+<br />
 
-### Spotify Playing 🎧
+---
 
-<h3> Connect with me: </h3>
-<br>
+### Versions of me
+
+<br />
       
 [<img align="left" alt="Portfolio" height="30px" width="auto" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img align="left" alt="Twitter" height="30px" width="auto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="LinkedIn" height="30px" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br>
-<br>
+<br />
 
 ---
 
@@ -37,18 +38,13 @@ Goals for 2022:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
-<br />
 
 ---
 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   <br />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
   <br />
-</details>
 
 ---
 
