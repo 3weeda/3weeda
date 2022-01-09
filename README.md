@@ -16,7 +16,7 @@ Goals for 2022:
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/312u2g57lthjjs2ylvawizduewya)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3weeda)
 
   </td>
     <td width="50%">
@@ -24,9 +24,9 @@ Goals for 2022:
     <h3> Connect with me: </h3>
   <br>
       
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Portfolio" width="22px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
   <br> 
   <br>     
@@ -54,14 +54,13 @@ Goals for 2022:
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
-
+  <br />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
+  <br />
 </details>
 
-
+---
 
 [website]: https://3weeda.com/
 [linkedin]: https://www.linkedin.com/in/3weeda/
