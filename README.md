@@ -41,10 +41,8 @@ Goals for 2022:
 
 ---
 
-  <br />
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
-  <br />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
 
 ---
 
