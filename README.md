@@ -1,6 +1,6 @@
 ### Hi there mate, I'm Ahmad 👋
 
-## I'm a Frontend Developer in love with Javascript, React and animation
+## I'm a Frontend Developer in love with Javascript, React and Web Animation
 
 Goals for 2022: 
 - Contribute to more open source projects.
@@ -13,7 +13,7 @@ Goals for 2022:
 
 ---
 
-### Versions of me
+### Versions of me:
 
 <br />
       
