@@ -41,10 +41,18 @@ Goals for 2022:
 
 ---
 
-<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
+<details>
+  <summary>Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+      
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=3weeda&theme=algolia&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3weeda&layout=compact" />
 
----
+<!--END_SECTION:activity-->
+
+</details>
+
 
 [website]: https://3weeda.com/
 [linkedin]: https://www.linkedin.com/in/3weeda/
