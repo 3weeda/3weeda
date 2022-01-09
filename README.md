@@ -15,11 +15,14 @@ Goals for 2022:
 <h3> Connect with me: </h3>
 <br>
       
-[<img align="left" alt="Portfolio" width="80px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
-[<img align="left" alt="Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Portfolio" height="30px" width="auto" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img align="left" alt="Twitter" height="30px" width="auto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" height="30px" width="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
+<br>
+<br>
 
+---
 
 ### Languages:
 
