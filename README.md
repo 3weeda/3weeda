@@ -2,16 +2,21 @@
 
 ## I'm a Frontend Developer in love with Javascript, React and Web Animation
 
-<div align="left" width="47%">
-Goals for 2022: 
-- Contribute to more open source projects.
-- Read more programming books.
-- Start a Frontend blog.
-- Launch a monthly email newsletter campaign.
-- Solve harder Leetcode challenges.
-</div>
+<table width="100%"> 
+ <tr>
+  <td width="50%">
+      Goals for 2022: 
+      - Contribute to more open source projects.
+      - Read more programming books.
+      - Start a Frontend blog.
+      - Launch a monthly email newsletter campaign.
+      - Solve harder Leetcode challenges.
+  </td>
+  <td width="50%">
+      <img align="center" width="50%" src="https://www.3weeda.com/img/favicon.png" />
+ </td>
+</table>
 
-<img align="left" width="47%" src="https://www.3weeda.com/img/favicon.png" />
 ---
 
 ### Versions of me:
