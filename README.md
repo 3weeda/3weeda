@@ -9,8 +9,6 @@ Goals for 2022:
 - Launch a monthly email newsletter campaign
 - Solve harder Leetcode challenges
 
-<br />
-
 ---
 
 ### Versions of me:
