@@ -6,8 +6,8 @@ Goals for 2022:
 - Contribute to more open source projects.
 - Read more programming books.
 - Start a Frontend blog.
-- Launch a monthly email newsletter campaign
-- Solve harder Leetcode challenges
+- Launch a monthly email newsletter campaign.
+- Solve harder Leetcode challenges.
 
 ---
 
