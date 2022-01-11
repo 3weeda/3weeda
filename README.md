@@ -1,4 +1,4 @@
-### Hi there mate, I'm Ahmad 👋<img align="left" width="50px" src="https://www.3weeda.com/img/favicon.png" />
+### Hi there mate, I'm Ahmad 👋<img align="right" width="30px" src="https://www.3weeda.com/img/favicon.png" />
 
 ## I'm a Frontend Developer in love with Javascript, React and Web Animation
 
