@@ -1,6 +1,6 @@
 ### Hi there mate, I'm Ahmad 👋 [<img align="right" width="110px" src="https://www.3weeda.com/img/favicon.png" />][website]
 
-## I'm a Frontend Developer in love with Javascript, Typescript, React, Vue and Web Animation
+## A Frontend Developer in love with Javascript, Typescript, React, Vue and Web Animation
 
 Goals for 2022: 
 - Contribute to more open source projects.
