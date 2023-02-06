@@ -2,7 +2,7 @@
 
 ## A Frontend Developer in love with Javascript, Typescript, React, Vue and Web Animation
 
-Goals for 2022: 
+Goals for 2023: 
 - Contribute to more open source projects.
 - Read more programming books.
 - Start a Frontend blog.
